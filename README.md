@@ -24,4 +24,4 @@ that automatically build doxygen (using `cd fib && make doc`), and publish the g
 to [https://ou-cs3560-f19-examples.netlify.com/](https://ou-cs3560-f19-examples.netlify.com/).
 
 ## Note
-This repo is used by students to practice pull requests. 
+This repo is used by students to practice pull requests. Done by Aaron McKenna, P100901944
